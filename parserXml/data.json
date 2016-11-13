@@ -1,0 +1,132 @@
+{
+    "USERS": {
+        "USER": [
+            {
+                "LOGIN": [
+                    "admin"
+                ],
+                "EMAIL": [
+                    "admin@gmail.com"
+                ],
+                "PASSWORD": [
+                    "admin"
+                ],
+                "MARK": [
+                    "10"
+                ]
+            },
+            {
+                "LOGIN": [
+                    "ivanov"
+                ],
+                "EMAIL": [
+                    "ivanov@gmail.com"
+                ],
+                "PASSWORD": [
+                    "ivanov"
+                ],
+                "MARK": [
+                    "5"
+                ]
+            },
+            {
+                "LOGIN": [
+                    "petrov"
+                ],
+                "EMAIL": [
+                    "petrov@gmail.com"
+                ],
+                "PASSWORD": [
+                    "petrov"
+                ],
+                "MARK": [
+                    "2"
+                ]
+            },
+            {
+                "LOGIN": [
+                    "test"
+                ],
+                "EMAIL": [
+                    "test@gmail.com"
+                ],
+                "PASSWORD": [
+                    "test"
+                ],
+                "MARK": [
+                    "5"
+                ]
+            },
+            {
+                "LOGIN": [
+                    "misha"
+                ],
+                "EMAIL": [
+                    "misha@gmail.com"
+                ],
+                "PASSWORD": [
+                    "misha"
+                ],
+                "MARK": [
+                    "3"
+                ]
+            },
+            {
+                "LOGIN": [
+                    "pen"
+                ],
+                "EMAIL": [
+                    "pen@gmail.com"
+                ],
+                "PASSWORD": [
+                    "pen"
+                ],
+                "MARK": [
+                    "5"
+                ]
+            },
+            {
+                "LOGIN": [
+                    "usver"
+                ],
+                "EMAIL": [
+                    "usver@gmail.com"
+                ],
+                "PASSWORD": [
+                    "usver"
+                ],
+                "MARK": [
+                    "-1"
+                ]
+            },
+            {
+                "LOGIN": [
+                    "lol"
+                ],
+                "EMAIL": [
+                    "lol@gmail.com"
+                ],
+                "PASSWORD": [
+                    "lol"
+                ],
+                "MARK": [
+                    "3"
+                ]
+            },
+            {
+                "LOGIN": [
+                    "din"
+                ],
+                "EMAIL": [
+                    "din@gmail.com"
+                ],
+                "PASSWORD": [
+                    "din"
+                ],
+                "MARK": [
+                    "5"
+                ]
+            }
+        ]
+    }
+}
