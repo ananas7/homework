@@ -1,129 +1,129 @@
 {
-    "USERS": {
-        "USER": [
+    "users": {
+        "user": [
             {
-                "LOGIN": [
+                "login": [
                     "admin"
                 ],
-                "EMAIL": [
+                "email": [
                     "admin@gmail.com"
                 ],
-                "PASSWORD": [
+                "password": [
                     "admin"
                 ],
-                "MARK": [
+                "mark": [
                     "10"
                 ]
             },
             {
-                "LOGIN": [
+                "login": [
                     "ivanov"
                 ],
-                "EMAIL": [
+                "email": [
                     "ivanov@gmail.com"
                 ],
-                "PASSWORD": [
+                "password": [
                     "ivanov"
                 ],
-                "MARK": [
+                "mark": [
                     "5"
                 ]
             },
             {
-                "LOGIN": [
+                "login": [
                     "petrov"
                 ],
-                "EMAIL": [
+                "email": [
                     "petrov@gmail.com"
                 ],
-                "PASSWORD": [
+                "password": [
                     "petrov"
                 ],
-                "MARK": [
+                "mark": [
                     "2"
                 ]
             },
             {
-                "LOGIN": [
+                "login": [
                     "test"
                 ],
-                "EMAIL": [
+                "email": [
                     "test@gmail.com"
                 ],
-                "PASSWORD": [
+                "password": [
                     "test"
                 ],
-                "MARK": [
+                "mark": [
                     "5"
                 ]
             },
             {
-                "LOGIN": [
+                "login": [
                     "misha"
                 ],
-                "EMAIL": [
+                "email": [
                     "misha@gmail.com"
                 ],
-                "PASSWORD": [
+                "password": [
                     "misha"
                 ],
-                "MARK": [
+                "mark": [
                     "3"
                 ]
             },
             {
-                "LOGIN": [
+                "login": [
                     "pen"
                 ],
-                "EMAIL": [
+                "email": [
                     "pen@gmail.com"
                 ],
-                "PASSWORD": [
+                "password": [
                     "pen"
                 ],
-                "MARK": [
+                "mark": [
                     "5"
                 ]
             },
             {
-                "LOGIN": [
+                "login": [
                     "usver"
                 ],
-                "EMAIL": [
+                "email": [
                     "usver@gmail.com"
                 ],
-                "PASSWORD": [
+                "password": [
                     "usver"
                 ],
-                "MARK": [
+                "mark": [
                     "-1"
                 ]
             },
             {
-                "LOGIN": [
+                "login": [
                     "lol"
                 ],
-                "EMAIL": [
+                "email": [
                     "lol@gmail.com"
                 ],
-                "PASSWORD": [
+                "password": [
                     "lol"
                 ],
-                "MARK": [
+                "mark": [
                     "3"
                 ]
             },
             {
-                "LOGIN": [
+                "login": [
                     "din"
                 ],
-                "EMAIL": [
+                "email": [
                     "din@gmail.com"
                 ],
-                "PASSWORD": [
+                "password": [
                     "din"
                 ],
-                "MARK": [
+                "mark": [
                     "5"
                 ]
             }

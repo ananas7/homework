@@ -1,54 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
-<users>
-    <user>
+<!DOCTYPE users SYSTEM "user.dtd">
+<users name="new-list">
+    <user active="true">
         <login>admin</login>
         <email>admin@gmail.com</email>
         <password>admin</password>
         <mark>10</mark>
     </user>
-    <user>
+    <user active="true">
         <login>ivanov</login>
         <email>ivanov@gmail.com</email>
         <password>ivanov</password>
         <mark>5</mark>
     </user>
-    <user>
+    <user active="true">
         <login>petrov</login>
         <email>petrov@gmail.com</email>
         <password>petrov</password>
         <mark>2</mark>
     </user>
-    <user>
+    <user active="true">
         <login>test</login>
         <email>test@gmail.com</email>
         <password>test</password>
         <mark>5</mark>
     </user>
-    <user>
+    <user active="true">
         <login>misha</login>
         <email>misha@gmail.com</email>
         <password>misha</password>
         <mark>3</mark>
     </user>
-    <user>
+    <user active="true">
         <login>pen</login>
         <email>pen@gmail.com</email>
         <password>pen</password>
         <mark>5</mark>
     </user>
-    <user>
+    <user active="true">
         <login>usver</login>
         <email>usver@gmail.com</email>
         <password>usver</password>
         <mark>-1</mark>
     </user>
-    <user>
+    <user active="true">
         <login>lol</login>
         <email>lol@gmail.com</email>
         <password>lol</password>
         <mark>3</mark>
     </user>
-    <user>
+    <user active="true">
         <login>din</login>
         <email>din@gmail.com</email>
         <password>din</password>

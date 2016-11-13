@@ -17,25 +17,25 @@ function parseXml() {
 }
 function test(err, result) {
     tape('Object length test', assert => {
-        const right = result.USERS.USER.length;
+        const right = result.users.user.length;
         const testable = 9;
         assert.equal(right, testable, `| testable: ${testable}, correct: ${right}`);
         assert.end();
     });
     tape('Random element test 1', assert => {
-        const right = result.USERS.USER[0].LOGIN[0];
+        const right = result.users.user[0].login[0];
         const testable = 'admin';
         assert.equal(right, testable, `| testable: ${testable}, correct: ${right}`);
         assert.end();
     });
     tape('Random element test 2', assert => {
-        const right = result.USERS.USER[8].EMAIL[0];
+        const right = result.users.user[8].email[0];
         const testable = 'din@gmail.com';
         assert.equal(right, testable, `| testable: ${testable}, correct: ${right}`);
         assert.end();
     });
     tape('Random element test 3', assert => {
-        const right = result.USERS.USER[7].PASSWORD[0];
+        const right = result.users.user[7].password[0];
         const testable = 'lol';
         assert.equal(right, testable, `| testable: ${testable}, correct: ${right}`);
         assert.end();

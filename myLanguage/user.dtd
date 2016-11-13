@@ -1,0 +1,10 @@
+<!ELEMENT users (user+)>
+<!ATTLIST users name CDATA #REQUIRED>
+
+<!ELEMENT user (login, email, password, mark)>
+<!ATTLIST user active CDATA #REQUIRED>
+
+<!ELEMENT login (#PCDATA)>
+<!ELEMENT email (#PCDATA)>
+<!ELEMENT password (#PCDATA)>
+<!ELEMENT mark (#PCDATA)>
