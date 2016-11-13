@@ -1,0 +1,10 @@
+{
+  "name": "ternaryOperator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "I. Lomtev",
+  "license": "MIT",
+  "dependencies": {
+    "tape": "^4.6.2"
+  }
+}
