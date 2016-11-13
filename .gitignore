@@ -44,4 +44,4 @@ jspm_packages
 *.tgz
 
 #Bundle
-bundle.js
+#bundle.js
