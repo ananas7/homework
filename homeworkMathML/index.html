@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>MathJax</title>
+    <meta charset="utf-8"><link rel="stylesheet" href="/css/board0">
+    <meta author="Lomtev Ilya">
+    <script src="/j/mathjax1"></script><script src="/j/mathjax2"></script>
+    <script src='https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML'></script>
+</head>
+<body>
+<article>
+    <h1 style="text-align: center">Среднеквадратическое отклонение</h1>
+    <p><math display="block">
+        <mstyle displaystyle="true" fontsize="30px">
+            <mrow>
+                <mi>&sigma;</mi>
+                <mo>=</mo>
+                <msqrt>
+                    <mrow>
+                        <mrow>
+                            <mfrac>
+                                <mi>1</mi>
+                                <mi>n</mi>
+                            </mfrac>
+                        </mrow>
+                        <mrow>
+                            <munderover>
+                                <mo stretchy="true" form="prefix">&sum;</mo>
+                                <mrow>
+                                    <mi>i</mi>
+                                    <mo>=</mo>
+                                    <mn>0</mn>
+                                </mrow>
+                                <mi>n</mi>
+                            </munderover>
+                        </mrow>
+                        <mrow>
+                            <msup>
+                                <mrow>
+                                    <mfenced separators="" open="(" close=")">
+                                        <msub>
+                                            <mi>x</mi>
+                                            <mi>i</mi>
+                                        </msub>
+                                        <mo>-</mo>
+                                        <mover>
+                                            <mi>x</mi>
+                                            <mo>&oline;</mo>
+                                        </mover>
+                                    </mfenced>
+                                </mrow>
+                                <mrow>
+                                    <mn>2</mn>
+                                </mrow>
+                            </msup>
+                        </mrow>
+                    </mrow>
+                </msqrt>
+            </mrow>
+        </mstyle>
+    </math></p>
+</article>
+
+<script src="/get?js=boff"></script><script>console.clear();</script>
+</body>
