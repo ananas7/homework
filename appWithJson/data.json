@@ -1,0 +1,56 @@
+[
+    {
+        "login": "admin",
+        "email": "admin@gmail.com",
+        "password": "admin",
+        "mark": 10
+    },
+    {
+        "login": "ivanov",
+        "email": "ivanov@gmail.com",
+        "password": "ivanov",
+        "mark": 5
+    },
+    {
+        "login": "petrov",
+        "email": "petrov@gmail.com",
+        "password": "petrov",
+        "mark": 2
+    },
+    {
+        "login": "test",
+        "email": "test@gmail.com",
+        "password": "test",
+        "mark": 5
+    },
+    {
+        "login": "misha",
+        "email": "misha@gmail.com",
+        "password": "misha",
+        "mark": 3
+    },
+    {
+        "login": "pen",
+        "email": "pen@gmail.com",
+        "password": "pen",
+        "mark": 5
+    },
+    {
+        "login": "usver",
+        "email": "usver@gmail.com",
+        "password": "usver",
+        "mark": -1
+    },
+    {
+        "login": "lol",
+        "email": "lol@gmail.com",
+        "password": "lol",
+        "mark": 3
+    },
+    {
+        "login": "din",
+        "email": "din@gmail.com",
+        "password": "din",
+        "mark": 5
+    }
+]
