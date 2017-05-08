@@ -1,0 +1,3 @@
+1) SCORM package - https://lesson-test.moodlecloud.com (login: student, pass: password);
+2) boundary control - https://codepen.io/i_lomtev/pen/ybOGMo?editors=1010 (Need to install a plugin for chrome 'cors');
+3) friendly basket - https://jsfiddle.net/jhnrcf39/5/
